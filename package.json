@@ -20,9 +20,7 @@
   "devDependencies": {
     "@tscircuit/ti-parts-engine": "github:tscircuit/ti-parts-engine",
     "@types/react": "^19.2.16",
-    "jszip": "^3.10.1",
-    "kicad-to-circuit-json": "^0.0.78",
-    "tscircuit": "^0.0.1824",
+    "tscircuit": "^0.0.1837",
     "typescript": "^5.0.0"
   },
   "author": "seveibar"
